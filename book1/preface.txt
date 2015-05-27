@@ -1,0 +1,5 @@
+Author: John Doe
+
+This is the book one's preface and is the first line logically. However physically the third line.
+This is a story book about king. However this should not appear if you search for capitalized king.
+Story about King and Queen are very interesting to kids. 

@@ -1,0 +1,10 @@
+Chapter: 1
+
+Logically the first line but physically the 3rd.
+King and queen are still a reality.
+This line should be included in the grep result if you include one line after thy word xxxx appears. 
+Emperor is another word for king. However this line should not appear if you are looking for captialized word xxxx.
+Superking should not appear when you search for the word xxxx.
+BeautyQueen should not appear when you search for the word yyyy.
+
+PS: xxxx means king. yyyy means queen.
